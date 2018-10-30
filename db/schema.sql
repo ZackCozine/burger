@@ -1,7 +1,9 @@
 DROP DATABASE IF EXISTS burgers_db;
 CREATE DATABASE burgers_db;
+-- drop these commmands most likely
 
 USE burgers_db;
+-- change this to the garbage db i got from JAWSDB
 
 CREATE TABLE burgers
 (
